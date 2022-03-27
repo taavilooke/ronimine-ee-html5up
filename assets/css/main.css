@@ -85,7 +85,7 @@ input, select, textarea {
 	html {
 		background-color: #313a3d;
 		background-attachment: fixed,						fixed;
-		background-image: url("images/overlay.png"), url("../../images/bg.jpg");
+		background-image: url("images/overlay.png"), url("../../images/albertkerstna.com_Chillax2016__MG_3572_resized.jpg");
 		background-position: top left,					center center;
 		background-repeat: repeat,						none;
 		background-size: auto,						cover;
@@ -2297,7 +2297,7 @@ input, select, textarea {
 		}
 
 			ul.alt li {
-				border-top: solid 1px #dddddd;
+				/*border-top: solid 1px #dddddd;*/
 				padding: 0.5em 0;
 			}
 
@@ -2738,8 +2738,8 @@ input, select, textarea {
 		}
 
 		.main .container {
-			padding: 5em 2.5em 8em 2.5em ;
-			background: rgba(255, 255, 255, 0.95);
+			padding: 5em 2.5em 2.5em 2.5em ;
+			background: rgba(255, 255, 255, 0.9);
 			box-shadow: inset 0 1px 0 0 #dddddd;
 		}
 
@@ -2837,7 +2837,7 @@ input, select, textarea {
 			}
 
 		#header .container {
-			background: rgba(255, 255, 255, 0.95);
+			background: rgba(255, 255, 255, 0.9);
 			bottom: 0;
 			left: 50%;
 			margin-left: -17.5em;
@@ -2856,7 +2856,7 @@ input, select, textarea {
 /* Footer */
 
 	#footer {
-		min-height: 100vh;
+		/*min-height: 100vh;*/
 		padding: 0 0 12em 0;
 		position: relative;
 		text-align: center;
@@ -2938,7 +2938,7 @@ input, select, textarea {
 			}
 
 			.main .container {
-				padding: 3em 3em 8em 3em ;
+				padding: 3em 3em 3em 3em ;
 			}
 
 				.main .container:before {
